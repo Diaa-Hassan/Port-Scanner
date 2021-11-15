@@ -24,6 +24,7 @@ this will run the script with some default parameters for testing
 >You Can Specify Your Own Target And Ports To Be Scanned As Follows
 
 `./PortScanner.sh TARGET BEGINING_PORT ENDING_PORT`
+
 for example:
 `./PortScanner.sh kernel.org 440 445`
 and the output should be something like this 
